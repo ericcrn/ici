@@ -1,0 +1,42 @@
+Autor(es): Eric Cerna Lizama - Pablo Cofré González
+
+Cantidad de casos de secuenciación por región:
+
+	Valparaiso: 65
+
+	Magallanes: 26
+
+	Tarapaca: 75
+
+	Arica: 40
+
+	Antofagasta: 76
+
+	Atacama: 46
+
+	Maule: 17
+
+	Coquimbo: 59
+
+	Bio Bio: 36
+
+	Metropolitana: 0
+
+	Nuble: 16
+
+	Aysen: 4
+
+	O Higgins: 39
+
+	Los Rios: 19
+
+	Araucania: 9
+
+	Los Lagos: 34
+
+
+Casos negativos mes abril del año 2023: 438
+
+Casos negativo especie Yunco: 38
+
+Incidencias 06/2023 del “Lile”: 10
