@@ -51,7 +51,7 @@ def mostrar_datos(dict):
         sumPventa += Pventa
         print(f"{i:<12} {dict[i]['nombre'][:32]:<32} {dict[i]['precio']:<12} {dict[i]['ajuste']:<12} {Pventa:<12}")
     print(linea)
-    print(f"Total: {sumPventa}")
+    print(f"\t\tTotal: {sumPventa}")
 
 
 if __name__ == "__main__":

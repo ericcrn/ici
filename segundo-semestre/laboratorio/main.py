@@ -1,5 +1,7 @@
 # Autor: Eric Cerna Lizama
-DIR = "segundo-semestre/tarea-laboratorio/"
+import os
+
+DIR = os.path.dirname(os.path.realpath(__file__)) + "/"
 NUM_CASO = "3688580-4"
 GUIA = "ITEM\t\t\tCANTIDAD\tPRECIO UNITARIO"
 
