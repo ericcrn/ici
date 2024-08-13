@@ -1,0 +1,83 @@
+Coalición: c1
+Partido p11: 1
+Partido p100: 0
+Partido p39: 51
+Total de votos: 52
+
+
+Coalición: c2
+Partido p16: 6
+Partido p88: 11
+Partido p62: 69
+Partido p41: 54
+Partido p38: 0
+Total de votos: 140
+
+
+Coalición: c3
+Partido p03: 3
+Partido p96: 82
+Partido p76: 53
+Partido p66: 0
+Total de votos: 138
+
+
+Coalición: c4
+Partido p15: 12
+Partido p33: 9
+Partido p86: 80
+Partido p14: 17
+Partido p01: 6
+Total de votos: 124
+
+
+Coalición: c5
+Partido p67: 19
+Partido p92: 72
+Partido p55: 26
+Partido p85: 44
+Total de votos: 161
+
+
+Coalición: c6
+Partido p64: 53
+Partido p51: 10
+Partido p34: 11
+Partido p10: 43
+Partido p54: 21
+Partido p05: 0
+Total de votos: 138
+
+
+Coalición: c7
+Partido p94: 71
+Partido p73: 47
+Partido p82: 1
+Partido p53: 32
+Total de votos: 151
+
+
+Coalición: c8
+Partido p71: 1
+Partido p60: 2
+Partido p45: 32
+Partido p46: 5
+Partido p40: 2
+Total de votos: 42
+
+
+Coalición: c9
+Partido p06: 3
+Partido p09: 2
+Partido p25: 3
+Total de votos: 8
+
+
+Coalición: c10
+Partido p13: 24
+Partido p17: 20
+Partido p65: 2
+Partido p30: 0
+Total de votos: 46
+
+
