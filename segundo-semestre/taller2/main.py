@@ -39,6 +39,13 @@ def pventa(precio, ajuste):
     
     return precio + (precio * ajuste / 100)
 
+def clear_record(record):
+    list = []
+    in_pais = False
+    
+    for char in record[0]:
+        if char 
+
 def mostrar_datos(dict):
     columns = os.get_terminal_size().columns
     linea = '-' * columns
