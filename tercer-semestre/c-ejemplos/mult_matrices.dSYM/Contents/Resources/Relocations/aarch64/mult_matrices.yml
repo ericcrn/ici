@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ericcrn/Documents/apps/ici/tercer-semestre/c-ejemplos/mult_matrices'
+relocations:     []
+...
